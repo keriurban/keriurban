@@ -12,9 +12,23 @@
 
 - 🔭 Feel free to explore my repositories, and if you have any questions or would like to collaborate on a project, don’t hesitate to reach out. I'm always excited to connect with fellow developers and designers!
 
-- 📫 How to reach me: keri.a.urban@gmail.com
-
 - ⚡ Fun fact: My husband and I have 2 daughters, 14 and 2. As a Mom of a toddler and a teenager, I can handle anything! 🤪
 
 Thank you for visiting my GitHub profile. 🚀
+
+### :hammer_and_wrench: Languages and Tools :
+<p align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+
 
