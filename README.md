@@ -12,7 +12,7 @@
 
 - 🔭 Feel free to explore my repositories, and if you have any questions or would like to collaborate on a project, don’t hesitate to reach out. I'm always excited to connect with fellow developers and designers!
 
-- ⚡ Fun fact: My husband and I have 2 daughters, 14 and 2. As a Mom of a toddler and a teenager, I can handle anything! 🤪
+- ⚡ Fun fact: My husband and I have 2 daughters, 16 and 4. As a Mom of a toddler and a teenager, I can handle anything! 🤪
 
 Thank you for visiting my GitHub profile. 🚀
 
